@@ -2,18 +2,17 @@
 
 This repository contains the public legal documents required for the Tournamaker mobile application, including:
 
-- **Privacy Policy**
-- **Terms of Service**
-- **Refund Policy**
-- **Account Deletion Instructions**
-- **Data Handling & Compliance Notices**
+- **[Privacy Policy](https://tzastech.github.io/tournamaker-privacy-policy/privacy-policy.html)**
+- **[Terms of Service](https://tzastech.github.io/tournamaker-privacy-policy/terms-of-service.html)**
+- **[Refund Policy](https://tzastech.github.io/tournamaker-privacy-policy/refund-policy.html)**
+- **[Account Deletion Instructions](https://tzastech.github.io/tournamaker-privacy-policy/delete-account.html)**
 
-These documents are published using GitHub Pages so they can be accessed publicly by users, Google Play, and Apple App Store review teams.
+These documents are published through GitHub Pages so they can be accessed publicly by users, Google Play, and Apple App Store review teams.
 
-If you are looking to request deletion of your Tournamaker account and associated data, please visit:
+---
 
-**https://tzastech.github.io/tournamaker-privacy-policy/delete-account.html**
+### 📬 Contact
 
-For any questions regarding your privacy or data, contact us at:
+If you have questions about your privacy or data, contact us at:
 
 **supp.tournamaker@gmail.com**
