@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Delete Tournamaker Account</title>
+</head>
+<body>
+  <h1>Delete Your Tournamaker Account</h1>
+
+  <p>To request deletion of your Tournamaker account and associated data, email us at:</p>
+  
+  <p><strong>supp.tournamaker@gmail.com</strong></p>
+
+  <h2>What will be deleted</h2>
+  <ul>
+    <li>User profile</li>
+    <li>Tournaments you created</li>
+    <li>Teams & participants</li>
+    <li>Messages</li>
+    <li>Friends</li>
+    <li>Purchases & entitlements</li>
+  </ul>
+
+  <h2>What may be retained</h2>
+  <p>Payment logs (Stripe/Google) and fraud-prevention logs may be kept for legal reasons.</p>
+</body>
+</html>
